@@ -1,0 +1,44 @@
+main {
+    background-color: deepskyblue;
+    padding: 20px;
+  }
+  form {
+    background-color: lightskyblue;
+  }
+  
+  h1,h3,h4,label{
+    color: white;
+  }
+  input {
+    height: 50px;
+    
+  }
+  
+  .btn-warning {
+    font-size: 150%;
+  }
+  
+  .utility_1 {
+    margin-top: 100px;
+  }
+  
+  i {
+    font-size: 300%;
+  }
+  
+  hr {
+    margin: auto;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .card {
+      align-items: start;
+    }
+
+    .plft{ 
+      text-align: initial;
+    }
+  
+  }
+
+  
